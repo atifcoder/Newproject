@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+#comparisondiv {
+	margin:100px auto 100px auto;
+	padding:auto 100px auto 100px;
+	width:980px;
+	border:2px solid #c3c3c3;
+	//box-shadow:2px 2px 2px  #4fffff;
+	
+	
+}
+#comparisonheading {
+	width:300px;
+	margin:auto auto auto;
+	color:#000;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	alignment-adjust:middle;
+	
+}
+#comparisontable {
+	margin:auto auto auto 250px;
+}
+#comparisontable1 {
+	margin:auto auto auto 10px;
+	color:#000;
+	font-size:22px;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;	
+	
+}
+
+.button {
+	color:#fff;
+	background-color:#000;
+	font-size:21px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	width:200px;
+	height:50px;
+	border-radius:10px;
+	
+}
+.button:hover{
+color:#0FF;	
+	}
+
+
